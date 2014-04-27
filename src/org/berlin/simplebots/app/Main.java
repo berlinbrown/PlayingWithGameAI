@@ -30,8 +30,8 @@ import org.berlin.simplebots.game.GameWindow;
 
 /**
  * Main entry point.
+ * 
  * @author bbrown
- *
  */
 public class Main {
 
