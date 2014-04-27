@@ -17,7 +17,7 @@
  * Tim Hutton is the original author, but a license not provided in source,
  * GPL was used for similar projects.  If Tim or anyone else has questions, please contact Berlin Brown.
  *
- * http://www.sq3.org.uk/Evolution/Squirm3/
+ * http://www.sq3.org.uk/Evolution/Squirm3/  
  */
 package org.berlin.simplebots.app;
 
