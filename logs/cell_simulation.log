@@ -417,3 +417,18 @@
 2014-04-27 14:04:27,573 [main] INFO  - org.berlin.simplebots.game.GameWindow.addReaction - Adding reaction allowed on the grid (init) : x2-y8 => x9-y1; 
 2014-04-27 14:04:27,573 [main] INFO  - org.berlin.simplebots.game.GameWindow.addReaction - Adding reaction allowed on the grid (init) : x9-y9 => x8 y8; 
 2014-04-27 14:04:27,574 [main] INFO  - org.berlin.simplebots.app.Main.main - >>> Done
+2014-04-27 14:18:49,286 [main] INFO  - org.berlin.simplebots.app.Main.main - >>> Running
+2014-04-27 14:18:49,397 [main] INFO  - org.berlin.simplebots.game.SquirmCell.makeBondWith - Making bond : us=[Super.SquirmCell : e8 / type=e state=8] -> withThem=[Super.SquirmCell : a1 / type=a state=1] numberBondsUs=1
+2014-04-27 14:18:49,397 [main] INFO  - org.berlin.simplebots.game.SquirmCell.makeBondWith - Making bond : us=[Super.SquirmCell : a1 / type=a state=1] -> withThem=[Super.SquirmCell : b1 / type=b state=1] numberBondsUs=2
+2014-04-27 14:18:49,397 [main] INFO  - org.berlin.simplebots.game.SquirmCell.makeBondWith - Making bond : us=[Super.SquirmCell : b1 / type=b state=1] -> withThem=[Super.SquirmCell : c1 / type=c state=1] numberBondsUs=2
+2014-04-27 14:18:49,399 [main] INFO  - org.berlin.simplebots.game.SquirmCell.makeBondWith - Making bond : us=[Super.SquirmCell : c1 / type=c state=1] -> withThem=[Super.SquirmCell : f1 / type=f state=1] numberBondsUs=2
+2014-04-27 14:18:49,474 [main] INFO  - org.berlin.simplebots.game.GameWindow.addReaction - Adding reaction allowed on the grid (init) : e8 e0 => e4-e3; 
+2014-04-27 14:18:49,474 [main] INFO  - org.berlin.simplebots.game.GameWindow.addReaction - Adding reaction allowed on the grid (init) : x4-y1 => x2-y5; 
+2014-04-27 14:18:49,474 [main] INFO  - org.berlin.simplebots.game.GameWindow.addReaction - Adding reaction allowed on the grid (init) : x5 x0 => x7-x6; 
+2014-04-27 14:18:49,475 [main] INFO  - org.berlin.simplebots.game.GameWindow.addReaction - Adding reaction allowed on the grid (init) : x3 y6 => x2-y3; 
+2014-04-27 14:18:49,475 [main] INFO  - org.berlin.simplebots.game.GameWindow.addReaction - Adding reaction allowed on the grid (init) : x7-y3 => x4-y3; 
+2014-04-27 14:18:49,475 [main] INFO  - org.berlin.simplebots.game.GameWindow.addReaction - Adding reaction allowed on the grid (init) : f4-f3 => f8 f8; 
+2014-04-27 14:18:49,475 [main] INFO  - org.berlin.simplebots.game.GameWindow.addReaction - Adding reaction allowed on the grid (init) : x2-y8 => x9-y1; 
+2014-04-27 14:18:49,475 [main] INFO  - org.berlin.simplebots.game.GameWindow.addReaction - Adding reaction allowed on the grid (init) : x9-y9 => x8 y8; 
+2014-04-27 14:18:49,476 [main] INFO  - org.berlin.simplebots.app.Main.main - >>> Done
+2014-04-27 14:18:49,477 [Thread-2] INFO  - org.berlin.simplebots.game.SquirmCell.makeBondWith - Making bond : us=[Super.SquirmCell : e8 / type=e state=8] -> withThem=[Super.SquirmCell : e0 / type=e state=0] numberBondsUs=2
